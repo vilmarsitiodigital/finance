@@ -4,7 +4,7 @@
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/vilmarbatista/" target="_blank" rel="noopener noreferrer">
-		<img alt="Made by" src="https://img.shields.io/static/v1?label=made%20by&message=Vilmar?color=9f97d2">
+		<img alt="Made by" src="https://img.shields.io/badge/made%20by-vilmar-9f97d2">
 	</a>
 	<a href="https://github.com/vilmarsitiodigital/finance/blob/main/LICENSE">
 		<img alt="GitHub" src="https://img.shields.io/github/license/vilmarsitiodigital/finance?color=9f97d2">
@@ -20,7 +20,6 @@ Here are the links to them
 
 - [REST API](https://github.com/vilmarsitiodigital/finance-api)
 - [Web client](https://github.com/vilmarsitiodigital/finance-web)
-- [Mobile client](https://github.com/vilmarsitiodigital/finance-mobile)
 
 ## 📝 License
 
