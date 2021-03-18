@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="GoStack" src="https://res.cloudinary.com/vilmarbatista/image/upload/v1616082449/Development/Agiotech/logo_onmr4w.png" width="500px" />
+	<img alt="GoStack" src="https://res.cloudinary.com/vilmarbatista/image/upload/v1616082691/Development/Agiotech/logo_onmr4w.png" width="500px" />
 </h1>
 
 <p align="center">
